@@ -1,7 +1,17 @@
-//?write a programe to add two numbers
+//?write a program to add two numbers / we can subtract and multiplication and divid also in same method 
 
-let x = 5;
-let y = 10;
+// let x = 5;
+// let y = 10;
 
-let sum = x+y;
-console.log(sum);
+// let sum = x+y;
+// console.log(sum);
+
+//? module (%) = return the operands when one operand divided by another operand 
+// let a = 11;
+// let b = 3 ;
+// let remain = a%b;
+// console.log(remain);
+
+
+var result = "hello " / 2;
+console.log(result);

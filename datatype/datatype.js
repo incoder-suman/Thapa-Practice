@@ -15,7 +15,7 @@
 // .then(result2 =>)
 
 if (NaN === NaN) {
-    console.log("Both are wqual");
+    console.log("Both are equal");
     
 } else{
     console.log("Not equal");
