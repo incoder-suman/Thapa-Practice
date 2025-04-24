@@ -12,6 +12,10 @@
 // let remain = a%b;
 // console.log(remain);
 
+//? Interview questions 
 
-var result = "hello " / 2;
+// var result = "hello " / 2;
+// console.log(result);
+
+var result = 0.1 + 0.2 ;
 console.log(result);
