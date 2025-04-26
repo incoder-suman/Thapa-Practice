@@ -17,5 +17,12 @@
 // var result = "hello " / 2;
 // console.log(result);
 
-var result = 0.1 + 0.2 ;
-console.log(result);
+// var result = 0.1 + 0.2 ;
+// console.log(result);
+
+//Create a page that shows a message “I’m JavaScript!”.
+
+ alert("Hello, I am javascript")
+
+//* String operators 
+
