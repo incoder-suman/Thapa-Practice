@@ -22,7 +22,7 @@
 
 //Create a page that shows a message “I’m JavaScript!”.
 
- alert("Hello, I am javascript")
+//  alert("Hello, I am javascript")
 
-//* String operators 
+//* combined interview questions 
 
