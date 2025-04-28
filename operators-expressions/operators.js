@@ -26,9 +26,23 @@
 
 //* combined interview questions 
 
-console.log("5" - 3);
-console.log(typeof("5" - 3));
-console.log(2 < 12 < 5);
-console.log("20" + 10+ 10);
+// console.log("5" - 3);
+// console.log(typeof("5" - 3));
+// console.log(2 < 12 < 5);
+// console.log("20" + 10+ 10);
 
+
+//* If/else statement 
+
+var age = 18;
+
+if (age >18){
+    console.log("you can vote");
+    }if (age = 18) {
+        console.log("You should apply for voterID card");
+        
+    } else {
+        console.log("you are not eligible for voting");
+        
+    }
 
