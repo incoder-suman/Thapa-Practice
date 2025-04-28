@@ -34,15 +34,25 @@
 
 //* If/else statement 
 
-var age = 18;
+// var age = 18;
 
-if (age >18){
-    console.log("you can vote");
-    }if (age = 18) {
-        console.log("You should apply for voterID card");
+// if (age >18){
+//     console.log("you can vote");
+//     }if (age = 18) {
+//         console.log("You should apply for voterID card");
         
-    } else {
-        console.log("you are not eligible for voting");
+//     } else {
+//         console.log("you are not eligible for voting");
         
-    }
+//     }
 
+
+var tempt = 100;
+
+if (tempt >= 45) {
+    console.log("let's go to beach");
+    
+} else {
+    console.log("watch Tv in the room");
+    
+}
