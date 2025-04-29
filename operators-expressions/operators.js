@@ -39,7 +39,7 @@
 // if (age >18){
 //     console.log("you can vote");
 //     }if (age = 18) {
-//         console.log("You should apply for voterID card");
+//         console.log("You should apply for voterID card");        //if...else practice 
         
 //     } else {
 //         console.log("you are not eligible for voting");
@@ -47,12 +47,14 @@
 //     }
 
 
-var tempt = 100;
+// var tempt = 100;
 
-if (tempt >= 45) {
-    console.log("let's go to beach");
+// if (tempt >= 45) {
+//     console.log("let's go to beach");
+//                                                 //practice of if...else 
+// } else {
+//     console.log("watch Tv in the room");
     
-} else {
-    console.log("watch Tv in the room");
-    
-}
+// }
+
+console.log(10+ 10 + "20")
