@@ -30,6 +30,7 @@
 // console.log(typeof("5" - 3));
 // console.log(2 < 12 < 5);
 // console.log("20" + 10+ 10);
+//console.log(10+ 10 + "20")
 
 
 //* If/else statement 
@@ -57,4 +58,19 @@
     
 // }
 
-console.log(10+ 10 + "20")
+
+// interview question 
+
+//? if the person is 18 years or older, a citizen , and registered to vote ,display a message saying they are eligible to vote.
+// if person is younger than 18, not a citizen or not register to vote, display a message and saying they are not eligible to vote 
+// if the person is 18 or older but not a citizen, display a message saying they are not eligible due to citizenship 
+// if a person is 18 or older, a citizen but not registered to vote display a message they are not eligible due to registration status 
+// Extended voting eligibility checker with additional condition 
+
+var personAge = 22;
+var citizenship = true;
+var registration = false;
+
+if (personAge > 18 || citizenship = true ) {
+    
+}
