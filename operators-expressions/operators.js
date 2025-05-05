@@ -84,10 +84,13 @@
 
 //? Write a program to check if a number is even or odd 
 
-var num = "9" ;
+// var num = "9" ;
 
-if (num % 2 ===0 ) {
-    console.log("This is even Number" );
-} else {
-    console.log("This is odd number");    
-}
+// if (num % 2 ===0 ) {
+//     console.log("This is even Number" );
+// } else {
+//     console.log("This is odd number");    
+// }
+
+
+//? Write a programe to check if a number is prime 
