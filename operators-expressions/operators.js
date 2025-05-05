@@ -94,3 +94,4 @@
 
 
 //? Write a programe to check if a number is prime 
+//? todo prime numbers are numbers that have only 
