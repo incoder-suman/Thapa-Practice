@@ -68,15 +68,26 @@
 //? Extended voting eligibility checker with additional condition 
 
 
-let personAge = 22;
-let isCitizenship = true;
-let registration = false;
+// let personAge = 22;
+// let isCitizenship = true;
+// let registration = false;
 
 
-if (personAge >= 18 && isCitizenship === true && registration === true ) {
-    console.log("Your are eligible to vote");
+// if (personAge >= 18 && isCitizenship === true && registration === true ) {
+//     console.log("Your are eligible to vote");
     
+// } else {
+//     console.log("You are not eligible due to citizenship ");
+    
+// }
+
+
+//? Write a program to check if a number is even or odd 
+
+var num = "9" ;
+
+if (num % 2 ===0 ) {
+    console.log("This is even Number" );
 } else {
-    console.log("You are not eligible due to citizenship ");
-    
+    console.log("This is odd number");    
 }
