@@ -96,3 +96,4 @@
 //? Write a programe to check if a number is prime 
 //? todo prime numbers are numbers that have only 
 //? All prime number greater than 2 are odd.
+//? However not all odd numbers are prime.
