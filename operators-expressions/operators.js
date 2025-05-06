@@ -99,4 +99,15 @@
 //? However not all odd numbers are prime.
 
 //? Write a program to check if a number is positive, Negative and Zero.
+var num = -5;
+
+if (num === 0) {
+    console.log("Number is Zero");
+} else if (num < 0) {
+    console.log("number is Negative");
+} else {
+    console.log("Number is Positive");
+    
+}
+
 
