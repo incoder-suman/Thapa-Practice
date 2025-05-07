@@ -112,3 +112,7 @@ if (num === 0) {
 
 //?         Switch Case 
 
+// syntex:
+
+
+
