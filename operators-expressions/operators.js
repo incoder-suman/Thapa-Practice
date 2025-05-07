@@ -114,5 +114,12 @@ if (num === 0) {
 
 // syntex:
 
+switch (key) {
+    case value:
+        
+        break;
 
+    default:
+        break;
+}
 
